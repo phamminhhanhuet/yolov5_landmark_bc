@@ -5,9 +5,9 @@
 #     /VOC
 #     /yolov5
 
-train: ./dataste_output/images/train/
-val: ./dataste_output/images/val/
-test: ./dataste_output/images/val/
+train: ./dataset_output/images/train/
+val: ./dataset_output/images/val/
+test: ./dataset_output/images/test/
 
 # number of classes
 nc: 1
